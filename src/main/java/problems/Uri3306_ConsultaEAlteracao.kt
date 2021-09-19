@@ -30,7 +30,7 @@ fun main(args: Array<String>) {
     }
 }
 
-fun minimoMultiploComum(vetor: IntArray, inicio: Int, fim: Int): Int {
+private fun minimoMultiploComum(vetor: IntArray, inicio: Int, fim: Int): Int {
     val vetorAComparar = vetor.copyOfRange(inicio - 1, fim)
     var maximosMultiplos = 1
     var minimoMultiploComum = 2

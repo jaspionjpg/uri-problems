@@ -23,5 +23,5 @@ fun main(args: Array<String>) {
 
 }
 
-fun isPossible(gravetoA: Int, gravetoB: Int, maiorIgual: Int): Boolean =
+private fun isPossible(gravetoA: Int, gravetoB: Int, maiorIgual: Int): Boolean =
     gravetoA + gravetoB > maiorIgual

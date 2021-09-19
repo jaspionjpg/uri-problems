@@ -55,7 +55,7 @@ fun main(args: Array<String>) {
     println(valorTotal)
 }
 
-fun getMenor(matriz: Array<IntArray>, lugarParaIr: Int): Int {
+private fun getMenor(matriz: Array<IntArray>, lugarParaIr: Int): Int {
     var menorValor = 9999
     for (arrays in matriz) {
         if (arrays[lugarParaIr] != 0 && arrays[lugarParaIr] < menorValor)
