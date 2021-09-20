@@ -3,7 +3,7 @@ package problems;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Uri1089_LoopMusical {
+public class Uri1221_PrimoRapido {
     public static void main(String[] args) throws IOException {
         Scanner ler = new Scanner(System.in);
         int n, x;
