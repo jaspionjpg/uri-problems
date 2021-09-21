@@ -3,7 +3,7 @@ package problems;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Uri2670_SucessorPar {
+public class Uri2679_SucessorPar {
     public static void main(String[] args) throws IOException {
         Scanner ler = new Scanner(System.in);
         int y = ler.nextInt();
