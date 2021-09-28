@@ -55,6 +55,8 @@ Locale.setDefault(Locale.US)
 - ID: 1141 - Cultivando Strings - STRINGS - lv 10
 - ID: 1148 - Países em Guerra - GRAFOS - lv 5
 - ID: 1152 - Estradas Escuras - GRAFOS - lv 5
+- ID: 1162 - Organizador de Vagões - ESTRUTURAS E BIBLIOTECAS - lv 5
+- ID: 1163 - Angry Ducks - MATEMÁTICA - lv 7
 
 
 
