@@ -57,9 +57,30 @@ Locale.setDefault(Locale.US)
 - ID: 1152 - Estradas Escuras - GRAFOS - lv 5
 - ID: 1162 - Organizador de Vagões - ESTRUTURAS E BIBLIOTECAS - lv 5
 - ID: 1163 - Angry Ducks - MATEMÁTICA - lv 7
-
-
-
+- ID: 1191 - Recuperação da Árvore - GRAFOS - lv 5
+- ID: 1194 - Prefixa, Infixa e Posfixa - GRAFOS - lv 3
+- ID: 1195 - Árvore Binária de Busca - GRAFOS - lv 5
+- ID: 1200 - Operações em ABP I - GRAFOS - lv 4
+- ID: 1201 - Operações em ABP II - GRAFOS - lv 7
+- ID: 1202 - Festival das Noites Brancas - MATEMÁTICA - lv 7
+- ID: 1203 - Pontes de São Petersburgo - PARADIGMAS - lv 7
+- ID: 1204 - Myachowski, o Futebol Russo - GEOMETRIA COMPUTACIONAL - lv 9
+- ID: 1205 - Cerco a Leningrado - GRAFOS - lv 7
+- ID: 1206 - Desafio de São Petersburgo - AD-HOC - lv 9
+- ID: 1207 - Os Benefícios da Vodka - GRAFOS - lv 9
+- ID: 1208 - As dinastias de São Petersburgo - GRAFOS - lv 7
+- ID: 1209 - Festas de São Petersburgo - AD-HOC - lv 9
+- ID: 1210 - Produção Ótima de Ótima Vodka - PARADIGMAS - lv 5
+- ID: 1211 - Lista Telefônica Econômica - ESTRUTURAS E BIBLIOTECAS - lv 5
+- ID: 1212 - Aritmética Primária - MATEMÁTICA - lv 8
+- ID: 1213 - Ones - MATEMÁTICA - lv 5
+- ID: 1219 - Flores Coloridas - MATEMÁTICA - lv 5
+- ID: 1220 - A Viagem - MATEMÁTICA - lv 7
+- ID: 1223 - Tobogan de Bolinhas - GEOMETRIA COMPUTACIONAL - lv 8
+- ID: 1224 - Cartões - PARADIGMAS - lv 8
+- ID: 1225 - Coral Perfeito - AD-HOC - lv 3
+- ID: 1226 - Elevador Espacial - PARADIGMAS - lv 8
+- ID: 1227 - Perdido na Noite - GRAFOS - lv 7
 
 
 
