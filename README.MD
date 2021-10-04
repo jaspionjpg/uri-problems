@@ -10,6 +10,14 @@ canivete
 Locale.setDefault(Locale.US)
 ```
 
+```
+private fun multiploDe2(number: Double): Boolean {
+    val log: Double = log2(number)
+    val pow: Double = 2.0.pow(log.roundToInt().toDouble())
+    return pow == number
+}
+```
+
 ### Pendentes
 
 - ID: 1027 - Onda Crítica - PARADIGMAS - lv 9
