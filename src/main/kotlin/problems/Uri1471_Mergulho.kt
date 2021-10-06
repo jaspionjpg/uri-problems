@@ -9,9 +9,8 @@ fun main(args: Array<String>) {
         val qvoltaram = ler.nextInt()
 
         val lista = 1.rangeTo(mergulhadores).toMutableList()
-        for (voltou in 1..qvoltaram) {
+        for (voltou in 1..qvoltaram)
             lista.remove(ler.nextInt())
-        }
 
         if (lista.isEmpty())
             println("*")
