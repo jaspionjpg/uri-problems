@@ -20,17 +20,17 @@ fun main(args: Array<String>) {
     val aQuadrado = maior.pow(2)
     val bVezesC = segundoMaior.pow(2) + terceiroMaior.pow(2)
     if (maior >= segundoMaior + terceiroMaior)
-        println("NAO FORMA TRIANGULO");
+        println("NAO FORMA TRIANGULO")
     else if (aQuadrado == bVezesC)
-        println("TRIANGULO RETANGULO");
+        println("TRIANGULO RETANGULO")
     else if (aQuadrado > bVezesC)
-        println("TRIANGULO OBTUSANGULO");
+        println("TRIANGULO OBTUSANGULO")
     else if (aQuadrado < bVezesC)
-        println("TRIANGULO ACUTANGULO");
+        println("TRIANGULO ACUTANGULO")
     if (maior == segundoMaior && segundoMaior == terceiroMaior)
-        println("TRIANGULO EQUILATERO");
+        println("TRIANGULO EQUILATERO")
     else if (maior == segundoMaior || segundoMaior == terceiroMaior || maior == terceiroMaior)
-        println("TRIANGULO ISOSCELES");
+        println("TRIANGULO ISOSCELES")
 }
 
 /*
