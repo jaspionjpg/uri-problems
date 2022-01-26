@@ -1,17 +1,13 @@
 package problems
 
-import java.util.Scanner
+import java.util.*
 
 fun main(args: Array<String>) {
     val ler = Scanner(System.`in`)
     val linhas: Int = ler.nextInt()
     val colunas: Int = ler.nextInt()
 
-    val numeros = Array(linhas) { IntArray(colunas) }
-
-    for (linha in 0 until linhas)
-        for (coluna in 0 until colunas)
-            numeros[linha][coluna] = ler.nextInt()
+    val numeros = Array(linhas) { IntArray(colunas) { ler.nextInt() } }
 
     var enderecoSabre = "0 0"
     linha@ for (linha in 0 until linhas)
