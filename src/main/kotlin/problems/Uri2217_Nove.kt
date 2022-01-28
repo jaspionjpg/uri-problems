@@ -4,9 +4,9 @@ import java.util.Scanner
 
 fun main(args: Array<String>) {
     val ler = Scanner(System.`in`)
-    val numeroInstancias: Int = ler.nextInt()
+    val numeroInstancias = ler.nextInt()
     for (i in 0 until numeroInstancias) {
-        val instancia: Int = ler.nextInt()
+        val instancia = ler.nextInt()
         if (instancia % 2 == 0) println("1")
         else println("9")
     }
