@@ -6,16 +6,14 @@ fun main(args: Array<String>) {
     val ler = Scanner(System.`in`)
 
     while (ler.hasNext()) {
-
         val num = ler.nextDouble()
         val cutoff = ler.nextDouble()
 
         val resto = num % 1
-        if (resto >= cutoff) {
+        if (resto >= cutoff)
             println(num.toInt() + 1)
-        } else {
+        else
             println(num.toInt())
-        }
     }
 }
 
